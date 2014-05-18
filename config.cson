@@ -1,0 +1,36 @@
+'exception-reporting':
+  'userId': 'a5866d9c-4f30-2fc1-384c-526cdaf02979'
+'release-notes':
+  'viewedVersion': '0.95.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': 'dd8b24479f37119ff8ea2fe7b90de01f1643dbac'
+'editor':
+  'fontSize': 20
+  'tabLength': 4
+  'showIndentGuide': true
+  'softWrap': true
+'core':
+  'themes': [
+    'atom-light-ui'
+    'atom-light-syntax'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+  'disabledPackages': [
+    'autocomplete'
+  ]
+'drupal':
+  'fileTypesPhp': 'module,install,inc,test'
+
+'syntax-settings':
+  'source':
+    'go':
+      'editorSettings': {}
+    'css':
+      'editorSettings':
+        'tabLength': 2
